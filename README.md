@@ -4,7 +4,7 @@ Simple profanity detection bot Using the free API [Here](https://profanity.dev/)
 
 Simply advices to not use profanity in the chat.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fauzaanu/zyloxbot)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fauzaanu/profanity-bot)
 
 ### Important
 

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13baa2bb-7273-4be1-9a7f-c4f49f775f6b" name="Changes" comment="feat:(prompt) : engineering the prompt with sonnet" />
+    <list default="true" id="13baa2bb-7273-4be1-9a7f-c4f49f775f6b" name="Changes" comment="feat:(prompt) : engineering the prompt with sonnet">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +73,7 @@
       <workItem from="1719484055205" duration="740000" />
       <workItem from="1719547271956" duration="15000" />
       <workItem from="1719618811993" duration="28000" />
-      <workItem from="1719618848782" duration="3904000" />
+      <workItem from="1719618848782" duration="4017000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
